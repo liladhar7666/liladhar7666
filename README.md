@@ -3,7 +3,7 @@
 ### :woman_technologist: About Me 
 - 👩🏻‍💻 Pronouns: He/Him
 - 💼 I’m a student.
-- 🎒 I've done 2 certifications of web development.
+- 🎒 I've done certification of web development.
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love expand my connection with people.
 - 📫 How to reach me: Check social links below.
